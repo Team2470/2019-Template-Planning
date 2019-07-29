@@ -3,9 +3,9 @@
 *A table listing all of the different things that the driver station controls, what category they fall under,
 which controller controls it, what button or axis is used, then a brief description.*
 
-| ***Group***    | ***Controller***     | ***Button/Axis***             | ***Description and Usage*** |
-| -------------- | -------------------- | ----------------------------- | --------------------------- |
-| Movement       | Right Drive Joystick | Y-Axis                        | Example                     |
+| ***Group*** | ***Controller***     | ***Button/Axis*** | ***Description and Usage*** |
+| ----------- | -------------------- | ----------------- | --------------------------- |
+| Example     | Right Drive Joystick | Y-Axis            | Example Description         |
 
 
 ## Buttons, Switches, and Joysticks not Used
