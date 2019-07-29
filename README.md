@@ -1,4 +1,4 @@
-# 2020
+# FRC-2020
 
 Robot code for FRC Team BJORG (Team 2470) during the 2019-2020 FIRST Infinite Recharge season. Extra information pertaining to this project can be found in the following files below:
 
