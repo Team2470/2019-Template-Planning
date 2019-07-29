@@ -7,6 +7,7 @@ Robot code for FRC Team BJORG (Team 2470) during the 2019-2020 FIRST Infinite Re
 * [Pull request template](https://github.com/Team2470/FRC-2020/blob/master/PULL_REQUEST_TEMPLATE.md)
 * [Issue templates](https://github.com/Team2470/FRC-2020/tree/master/.github/ISSUE_TEMPLATE)
   - [Bug report](https://github.com/Team2470/FRC-2020/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+  - [Cleanup](https://github.com/Team2470/FRC-2020/blob/master/.github/ISSUE_TEMPLATE/cleanup.md)
   - [Feature request](https://github.com/Team2470/FRC-2020/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 
 Code from previous years:
