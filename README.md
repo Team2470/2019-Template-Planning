@@ -11,7 +11,7 @@ Robot code for FRC Team BJORG (Team 2470) during the 2019-2020 FIRST Infinite Re
   - [Feature request](https://github.com/Team2470/FRC-2020/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 
 Code from previous years:
-* [Code for our c++ FRC helper files](https://github.com/Team2470/FRC-Helpers)
+* [Code for our C++ FRC helper files](https://github.com/Team2470/FRC-Helpers)
 * [Code for the 2018 robot](https://github.com/Team2470/FRC-2018/)
 * [Code for the practice robot made in 2018](https://github.com/Team2470/2018-Practice-Bot)
 * [Code for the 2019 robot](https://github.com/Team2470/FRC-2019/)
